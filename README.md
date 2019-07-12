@@ -23,5 +23,6 @@
 | -------------   |:-------------:| :---------- |----------- |
 | Ian Goodfellow | Python | [Link](https://github.com/goodfeli/adversarial) | Implementation by Authors of paper|
 | Nicolas Araque | Python | [Link](https://github.com/naraquev/Private-AI/blob/master/research/Generative_Adversarial_Nets.ipynb) | |
+|Dharmendra Choudhary | Python | [Link](https://github.com/drc10723/GAN_design/blob/master/GAN_implementations/Basic_GAN.ipynb) | Basic GAN implementation tutorial |
 
 

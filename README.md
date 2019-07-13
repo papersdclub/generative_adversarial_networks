@@ -6,7 +6,7 @@
 **Paper: ["Generative Adversarial Networks"](https://arxiv.org/abs/1406.2661)**  
 
 ### Quiz
-- [**QUIZ**](To Be annouced) 
+- [**QUIZ**](https://www.surveymonkey.com/r/93C8RHQ) 
 - [**Solutions**]
 
 ## Resources 
